@@ -16,3 +16,5 @@
 9) npm install dotenv => Use for storing private data like mongodb connection
 10) npm install body-parser => Use for middleware means changing in each routes seperately
 11) npm install morgan => use for information
+12) npm install mongoose-mongodb-errors => It solves the complicated and unreadablenp errors of mongoDB in easy and readable way.
+13) npm install express-async-errors => Solves async errors
