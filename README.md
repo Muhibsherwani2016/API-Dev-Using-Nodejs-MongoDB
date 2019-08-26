@@ -18,3 +18,6 @@
 11) npm install morgan => use for information
 12) npm install mongoose-mongodb-errors => It solves the complicated and unreadablenp errors of mongoDB in easy and readable way.
 13) npm install express-async-errors => Solves async errors
+14) npm install cross-env = Use for production and development messages seperately show
+    npm run prod = shows message only
+    npm run dev = shows message with stack
